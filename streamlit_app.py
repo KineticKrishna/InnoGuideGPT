@@ -312,7 +312,7 @@ def footer():
         link("", "@Tankala Satyasai"),
         br(),
         ", and",
-        link("", "@Sri Krishna")
+        link("", "@Sai Krishna")
     ]
     layout(*myargs)
 
